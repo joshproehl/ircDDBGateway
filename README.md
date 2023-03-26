@@ -37,7 +37,7 @@ and tail the logs with $ sudo tail -f /var/log/opendv/ircddgatewayd.log
 
 de KU7M
 
-This software is licenced under the GPL v2.
+[GPL 3.0](https://www.gnu.org/licenses/gpl-3.0.html)
 
 # Build and installing
 ## Regular build
