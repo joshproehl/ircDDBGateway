@@ -45,7 +45,7 @@ const wxChar*       GUI_SWITCH = wxT("gui");
 const wxChar*    LOGDIR_OPTION = wxT("logdir");
 const wxChar*   CONFDIR_OPTION = wxT("confdir");
 
-const wxString LOG_BASE_NAME    = wxT("ircddbgateway");
+const wxString LOG_BASE_NAME    = wxT("ircddbgatewayd");
 
 CIRCDDBGatewayApp::CIRCDDBGatewayApp() :
 wxApp(),

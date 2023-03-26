@@ -1488,3 +1488,9 @@ Support the GPS data from the Kenwood TH-D74.
 Add support for external GPS input for mobile systems.
 Add audio bypass processing for fast data mode.
 
+20230325
+--------
+Forked version from KU7M. Removed / changed logging so
+would go in /var/log/opendv like unix should work. Fixed
+random other little things. Builds/works on Ubuntu current.
+
