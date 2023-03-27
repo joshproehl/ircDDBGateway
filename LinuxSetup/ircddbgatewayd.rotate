@@ -1,0 +1,15 @@
+/var/log/opendv/ircddbgatewayd.log {
+	rotate 14
+	daily
+	compress
+	missingok
+	copytruncate
+}
+
+/var/log/opendv/Headers.log {
+       rotate 14
+       daily 
+       compress
+       missingok
+       copytruncate
+}
