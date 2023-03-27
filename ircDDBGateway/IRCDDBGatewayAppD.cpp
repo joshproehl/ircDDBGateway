@@ -51,7 +51,7 @@ const wxChar*   CONFDIR_OPTION = wxT("confdir");
 const wxChar*    DAEMON_SWITCH = wxT("daemon");
 const wxChar*   FGROUND_SWITCH = wxT("foreground");
 
-const wxString LOG_BASE_NAME    = wxT("ircDDBGateway");
+const wxString LOG_BASE_NAME    = wxT("ircddbgatewayd");
 
 static CIRCDDBGatewayAppD* m_gateway = NULL;
 
