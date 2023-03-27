@@ -18,9 +18,11 @@ sudo apt-get install build-essential git libwxgtk3.0-gtk3-dev
 
 ```
 
-To install them from scratch, you need to get wxGTK from 
-<http://www.wxwidgets.org>. If you do a "make install" on it then they'll
-be installed in the right places and nothing more needs to be done.
+To install them from scratch, you need wxGTK, on Ubuntu you can install it with
+apt-get (see above) or you can go to the source site. <http://www.wxwidgets.org>. 
+If you do a "make install" the binaries all go to the right places, but you still
+need to 'setup' somethings. Run the setup-irdddb.sh script in the LinuxSetup 
+directory. 
 
 (NOTE: I never tried to remove all the GUI bits, sorry to install a bunch
 of un-needed libraries on your linux box.)
